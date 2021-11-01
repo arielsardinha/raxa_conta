@@ -1,6 +1,6 @@
 # raxa_conta
 
-calculadora para as pessoas dividirem a conta
+A new Flutter project.
 
 ## Getting Started
 
